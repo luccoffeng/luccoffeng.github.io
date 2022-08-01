@@ -1,2 +1,4 @@
 remote_theme: mmistakes/minimal-mistakes
 title: Luc E. Coffeng
+
+theme: jekyll-theme-cayman
